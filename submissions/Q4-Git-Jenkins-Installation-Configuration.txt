@@ -10,7 +10,7 @@ To install and configure Git and Jenkins, establish the Java runtime required by
 
 The practical implementation was performed on Windows rather than Ubuntu Linux.
 
-- Operating System: MacOS
+- Operating System: Windows
 - Jenkins: 2.580.2
 - Java: Eclipse Temurin JDK 21.0.13
 
