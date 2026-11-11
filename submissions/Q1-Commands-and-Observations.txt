@@ -6,7 +6,7 @@
 To document the commands, configurations, source code, Git operations and Jenkins pipeline execution performed during the DevOps lab.
 
 ### Environment
-- Operating System: Macos
+- Operating System: Windows
 - IDE: Visual Studio Code
 - Version Control: Git 2.53.0
 - Repository: GitHub
