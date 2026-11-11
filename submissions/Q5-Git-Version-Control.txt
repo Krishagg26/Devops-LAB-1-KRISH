@@ -18,8 +18,8 @@ To understand and implement Git version control operations, including repository
 The global Git username and email were configured:
 
 ```powershell
-git config --global user.name "Upadhyayula Nijaagna"
-git config --global user.email "nijjusai1875@gmail.com"
+git config --global user.name "Krish Agarwal"
+git config --global user.email "krishagg2605@gmail.com"
 ```
 
 ### 4. Repository Initialization
@@ -34,7 +34,7 @@ git branch -M main
 The GitHub remote repository was connected:
 
 ```powershell
-git remote add origin https://github.com/Nijaagna05/DevOps-Lab-1-Nijaagna.git
+git remote add origin https://github.com/Krishagg26/Devops-LAB-1-KRISH.git
 ```
 
 ### 5. Staging and Committing
@@ -115,8 +115,7 @@ Observed results:
 
 Repository URL:
 
-https://github.com/Nijaagna05/DevOps-Lab-1-Nijaagna
-
+https://github.com/Krishagg26/Devops-LAB-1-KRISH
 ### 11. Conclusion
 
 The experiment successfully demonstrated Git version control operations, including initialization, staging, committing, remote repository configuration, branch creation, merging and pushing changes to GitHub.
