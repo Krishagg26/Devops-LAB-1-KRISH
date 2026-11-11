@@ -13,7 +13,6 @@ To create a Jenkins CI pipeline that retrieves source code from GitHub and autom
 - Python 3.14.6
 - Flask 3.1.2
 - Pytest 8.4.2
-- Windows PowerShell
 
 ### 3. Jenkins Job Creation
 
@@ -22,7 +21,7 @@ A Jenkins Pipeline job named DevOps-Lab-1 was created.
 The job was configured with:
 - Definition: Pipeline script from SCM
 - SCM: Git
-- Repository URL: https://github.com/Nijaagna05/DevOps-Lab-1-Nijaagna.git
+- Repository URL: https://github.com/Krishagg26/Devops-LAB-1-KRISH.git
 - Branch: */main
 - Script Path: Jenkinsfile
 - Credentials: None, because the repository is public.
