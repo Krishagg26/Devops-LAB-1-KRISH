@@ -14,7 +14,6 @@ To automate application deployment using Jenkins by integrating source code from
 - Python 3.14.6
 - Flask 3.1.2
 - Pytest 8.4.2
-- Windows PowerShell
 
 ### 3. Jenkins Job Configuration
 
@@ -22,7 +21,7 @@ A Jenkins Pipeline job named DevOps-Lab-1 was created.
 
 Configuration:
 - SCM: Git
-- Repository: https://github.com/Nijaagna05/DevOps-Lab-1-Nijaagna.git
+- Repository: https://github.com/Krishagg26/Devops-LAB-1-KRISH.git
 - Branch: main
 - Pipeline script: Jenkinsfile
 - Build trigger: Poll SCM
