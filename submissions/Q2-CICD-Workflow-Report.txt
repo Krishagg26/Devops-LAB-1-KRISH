@@ -49,8 +49,8 @@ Jenkins launches the Flask application on port 5000 and performs an HTTP health 
 
 ### 5. Automation Configuration
 
-- Source repository: https://github.com/Nijaagna05/DevOps-Lab-1-Nijaagna
-- Jenkins job: DevOps-Lab-1
+- Source repository: https://github.com/Krishagg26/Devops-LAB-1-KRISH
+- Jenkins job: Devops-Lab-1
 - Branch: main
 - Pipeline definition: Pipeline script from SCM
 - Pipeline file: Jenkinsfile
