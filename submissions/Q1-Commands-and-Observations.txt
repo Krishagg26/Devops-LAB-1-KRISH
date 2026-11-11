@@ -6,7 +6,7 @@
 To document the commands, configurations, source code, Git operations and Jenkins pipeline execution performed during the DevOps lab.
 
 ### Environment
-- Operating System: Windows
+- Operating System: Macos
 - IDE: Visual Studio Code
 - Version Control: Git 2.53.0
 - Repository: GitHub
@@ -18,11 +18,11 @@ To document the commands, configurations, source code, Git operations and Jenkin
 
 ### Git Configuration
 ```powershell
-git config --global user.name "Upadhyayula Nijaagna"
-git config --global user.email "nijjusai1875@gmail.com"
+git config --global user.name "Krish Agarwal"
+git config --global user.email "krishagg2605@gmail.com"
 git init
 git branch -M main
-git remote add origin https://github.com/Nijaagna05/DevOps-Lab-1-Nijaagna.git
+git remote add origin https://github.com/Krishagg26/Devops-LAB-1-KRISH.git
 ```
 
 ### Git Version Control Commands
